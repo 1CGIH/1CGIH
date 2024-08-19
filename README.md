@@ -1,16 +1,13 @@
-## Hi there 👋
+### SEJAM MUITO BEM VIDOS AO MEU PERFIL!
 
-<!--
-**1CGIH/1CGIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Sou uma estudante do Alura
 
-Here are some ideas to get you started:
+-Estou no 1 ano do Ensino Médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou aprendendo a linguagem JavaScript
+
+### CASO QUERIA FALR COMIGO (SÓ NÃO FAZ ISSO KK) 
+00001114329289SP@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/getgZf-P-I8AAAAi/luffy-one-piece.gif)
