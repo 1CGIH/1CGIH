@@ -1,4 +1,4 @@
-### SEJAM MUITO BEM VIDOS AO MEU PERFIL!
+### SEJAM MUITO BEM VINDOS AO MEU PERFIL!
 
 -Sou uma estudante do Alura
 
@@ -6,7 +6,7 @@
 
 -Estou aprendendo a linguagem JavaScript
 
-### CASO QUERIA FALR COMIGO (SÓ NÃO FAZ ISSO KK) 
+### CASO QUERIA FALAR COMIGO (SÓ NÃO FAZ ISSO KK) 
 00001114329289SP@al.educacao.sp.gov.br
 
 
